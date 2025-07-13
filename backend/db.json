@@ -2,78 +2,191 @@
   "pensamentos": [
     {
       "id": "2a56",
+      "favorito": false,
       "conteudo": "Vc faz TI? Conserta meu celular!",
-      "autoria": "Grupo da família"
+      "autoria": "Grupo da família",
+      "data": "2025-07-01T00:00:00.000Z"
     },
     {
       "id": "4c7d",
       "conteudo": "Da vida reclama, mas sem ela não vive!",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "2025-07-08"
     },
     {
       "id": "5b8a",
+      "favorito": false,
       "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev"
+      "autoria": "Dev",
+      "data": "2025-07-03T00:00:00.000Z"
     },
     {
       "id": "68uy",
+      "favorito": false,
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
-      "autoria": "Chaves"
+      "autoria": "Chaves",
+      "data": "2025-07-04T00:00:00.000Z"
     },
     {
       "id": "b807",
+      "favorito": false,
       "conteudo": "Melhor professor, o fracasso é!",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "2025-07-05T00:00:00.000Z"
     },
     {
       "id": "9f3c",
+      "favorito": false,
       "conteudo": "Você não é todo mundo!",
-      "autoria": "Mãe"
+      "autoria": "Mãe",
+      "data": "2025-07-06T00:00:00.000Z"
     },
     {
       "id": "6a2b",
+      "favorito": false,
       "conteudo": "Foi sem querer querendo!",
-      "autoria": "Chaves"
+      "autoria": "Chaves",
+      "data": "2025-07-07T00:00:00.000Z"
     },
     {
       "id": "7e2a",
+      "favorito": false,
       "conteudo": "Que a força esteja com você!",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "2025-07-08T00:00:00.000Z"
     },
     {
       "id": "5c8f",
+      "favorito": false,
       "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "2025-07-09T00:00:00.000Z"
     },
     {
       "id": "2d6e",
+      "favorito": false,
       "conteudo": "Não faça drama, faça café! :)",
-      "autoria": "Dev"
+      "autoria": "Dev",
+      "data": "2025-07-10T00:00:00.000Z"
     },
     {
       "id": "3f1a",
+      "favorito": false,
       "conteudo": "Conserta minha impressora?",
-      "autoria": "Grupo da família"
+      "autoria": "Grupo da família",
+      "data": "2025-07-11T00:00:00.000Z"
     },
     {
       "id": "8b4c",
+      "favorito": false,
       "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-      "autoria": "Seu Madruga"
+      "autoria": "Seu Madruga",
+      "data": "2025-07-12T00:00:00.000Z"
     },
     {
       "id": "4d2e",
+      "favorito": false,
       "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
-      "autoria": "Mãe"
+      "autoria": "Mãe",
+      "data": "2025-07-13T00:00:00.000Z"
     },
     {
       "id": "7a3b",
+      "favorito": false,
       "conteudo": "          Na minha maquina funciona",
-      "autoria": "Dev"
+      "autoria": "Dev",
+      "data": "2025-07-14T00:00:00.000Z"
     },
     {
       "id": "b7d1",
+      "favorito": false,
       "conteudo": "          Só sei o que nada sei!",
-      "autoria": "Sócrates"
+      "autoria": "Sócrates",
+      "data": "2025-07-15T00:00:00.000Z"
+    },
+    {
+      "id": "3bfc",
+      "conteudo": "gsdgs",
+      "autoria": "fsdgds",
+      "data": "2025-07-16T00:00:00.000Z"
+    },
+    {
+      "id": "3b86",
+      "conteudo": "Testando formato de data",
+      "autoria": "Dev",
+      "data": "2025-07-01"
+    },
+    {
+      "id": "24a4",
+      "conteudo": "Novo teste de data",
+      "autoria": "Dev",
+      "data": "2025-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "8e3b",
+      "conteudo": "fwsfs",
+      "autoria": "fsdfsdf",
+      "data": "2025-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "58fd",
+      "conteudo": "@",
+      "autoria": "@",
+      "data": "2025-07-12T00:00:00.000Z"
+    },
+    {
+      "id": "4204",
+      "conteudo": "     ",
+      "autoria": "          ",
+      "data": "2025-07-07T00:00:00.000Z"
+    },
+    {
+      "id": "d9d7",
+      "conteudo": "Hello World",
+      "autoria": "Dev",
+      "data": "2025-07-07T00:00:00.000Z"
+    },
+    {
+      "id": "1c47",
+      "conteudo": "Pensamento do Dia",
+      "autoria": "a",
+      "data": "2025-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "3731",
+      "conteudo": "Pensamento do dia",
+      "autoria": "#",
+      "data": "2025-07-10T00:00:00.000Z"
+    },
+    {
+      "id": "da10",
+      "conteudo": "Pensamento do dia",
+      "autoria": "   ",
+      "data": "2025-07-15T00:00:00.000Z"
+    },
+    {
+      "id": "9c84",
+      "conteudo": "Pensamento do dia",
+      "autoria": "Dev",
+      "data": "2025-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "e2aa",
+      "conteudo": "                                       ",
+      "autoria": "Dev",
+      "data": "2025-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "7264",
+      "conteudo": "Hello World",
+      "autoria": "Dev",
+      "data": "2025-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "808a",
+      "conteudo": "Na sua maquina funciona",
+      "autoria": "Dev",
+      "data": "2025-07-08T00:00:00.000Z"
     }
   ]
 }

@@ -46,7 +46,6 @@ main {
   background-color: #F4F4F4;
 }
 
-
 header {
   padding: 112px 240px 112px 360px;
   background: var(--Azul-Dark, #041832);
@@ -125,8 +124,38 @@ h3 {
   width: 100%;
 }
 
+#busca-container {
+  display: flex;
+  align-items: center;
+  margin-top: 56px;
+  width: 100%;
+  max-width: 600px;
+  margin: 56px auto;
+  padding: 0 16px;
+}
+
+#campo-busca {
+  flex: 1;
+  width: 572px;
+  height: 48px;
+  padding: 8px 16px;
+  border-radius: 32px;
+  border: 1px solid #144480;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  outline: none;
+}
+
+.lupa {
+  margin-left: -40px;
+  width: 24px;
+  height: 24px;
+}
+
 #pensamento-conteudo,
-#pensamento-autoria {
+#pensamento-autoria,
+#pensamento-data {
   padding: 16px;
   border-radius: 8px;
   background: var(--Cinza-claro, #EDF0F4);
@@ -210,8 +239,9 @@ h3 {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   row-gap: 32px;
+  column-gap: 24px;
 }
 
 .li-pensamento {
@@ -239,7 +269,8 @@ h3 {
 }
 
 .pensamento-conteudo,
-.pensamento-autoria {
+.pensamento-autoria,
+.pensamento-data {
   margin-left: 20px;
   color: var(--Cinza, #444);
   font-family: "Roboto Mono";
@@ -262,6 +293,12 @@ h3 {
   font-weight: 600;
 }
 
+.pensamento-data {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: end;
+}
+
 .icones {
   position: absolute;
   bottom: 16px;
@@ -269,18 +306,13 @@ h3 {
 }
 
 .botao-editar,
-.botao-excluir {
+.botao-excluir,
+.botao-favorito {
   background: none;
   border: none;
   cursor: pointer;
   padding: 8px;
   margin-left: 8px;
-}
-
-.botao-editar img,
-.botao-excluir img {
-  width: 20px;
-  height: 20px;
 }
 
 span {
